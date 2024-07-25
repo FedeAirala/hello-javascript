@@ -63,6 +63,7 @@ console.log (varBoolean)
 varString = 15
 varBoolean = "Fede"
 console.log (varString)
+console.log (typeof(varString))
 console.log(varBoolean)
 
 // 8. Declara constantes con valores asociados a todos los tipos de datos primitivos
